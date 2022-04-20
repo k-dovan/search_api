@@ -21,4 +21,7 @@ Twitter-API-v2-sample-code/
 # pycache
 __pycache__/
 
+# config credentials
+twitter/config.py
+
 
