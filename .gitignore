@@ -13,5 +13,12 @@
 
 # virtual env
 venv/
+
+# referenced API
 python-twitter-examples/
 Twitter-API-v2-sample-code/
+
+# pycache
+__pycache__/
+
+
